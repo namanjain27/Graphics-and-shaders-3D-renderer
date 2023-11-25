@@ -1,2 +1,2 @@
 # Graphics-and-shaders-3D-renderer
-using OpenGL
+using WebGL and JS
